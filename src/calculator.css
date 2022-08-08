@@ -6,8 +6,12 @@
     width: 40%;
     height:350px;
     background-color: rgb(236, 248, 248);
-    border-radius: 4px;
+   
     border-color: green;
+    border-radius: 4.5px;
+    -webkit-box-shadow:  10px 10px 7px -2px rgba(123,181,143,1);
+    -moz-box-shadow: 10px 10px 7px -2px rgb(38, 180, 168);
+    box-shadow: 10px 10px 7px -2px rgba(123,181,143,1);
 }
 h1{
     text-align: center;
