@@ -22,7 +22,7 @@ function App() {
           <div className='formbody'>
             <form id>
               <input id='input' type="text" value={result}></input>
-              <button className='eachNum' id="clear" onClick={Clear}>C</button>
+              <span><button className='eachNum' id="clear" onClick={Clear}>C</button></span> 
             </form>
           </div>
        
