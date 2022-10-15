@@ -3,9 +3,9 @@
     margin: 50px;
     margin-left: 550px;
     border: 2px solid black;
-    width: 40%;
-    height:350px;
-    background-color: rgb(236, 248, 248);
+    width: 38%;
+    height:370px;
+    background-image: linear-gradient(to bottom right, rgb(59, 115, 148), black);;
    
     border-color: green;
     border-radius: 4.5px;
@@ -15,7 +15,7 @@
 }
 h1{
     text-align: center;
-    color:rgb(98, 17, 173)
+    color:White;
 }
 #cal-body{
     text-align: center;
@@ -33,6 +33,7 @@ h1{
     width: 61%;
     margin: 4px;
     font-size: large;
+    font-weight: bold;
 }
 .eachNum:hover{
     background-color: rgb(198, 240, 198);
